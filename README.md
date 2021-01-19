@@ -2,6 +2,10 @@ Residual Neural network with keras2.3
 ================================================================
 A ResNet50 implementation using keras version 2.3
 
+installation
+------------
+python3 setup.py install --user
+
 execute tensorflow docker container
 -----------------------------------
 CPU:
